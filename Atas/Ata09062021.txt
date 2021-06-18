@@ -1,0 +1,49 @@
+Semana 07 de Junho de 2021
+
+                           
+
+Profa. Gisele S. Craveiro
+
+GRUPO: 6
+
+ 
+
+Presentes: Carina Huang 
+
+Julia Alcantara Rossi
+
+João Marcelo Rossetto Fernandes da Silva
+
+Rodrigo Baddini Kannebley
+
+Thiago Dalla Nora Silva
+
+Vinicius Matos de Souza
+
+ 
+
+Data: 09/06/2021
+
+Horário de Início: 20:00
+
+ 
+
+Ata - Reunião com Grupo
+
+    
+
+João começa com os informes da aula de segunda e as orientações da professora em relação ao trabalho e a participação do grupo nas aulas. Ele diz que a professora informou que poderíamos entregar apenas um protótipo, bem documentado e com público alvo e escopo bem definidos, e pergunta a opinião do grupo sobre qual das duas propostas decididas na última reunião o grupo iria escolher.
+
+Julia informa que as gravações estão no drive compartilhado e cria um documento para documentar as decisões tomadas durante a reunião e sugere que o grupo comece definindo qual proposta o grupo vai escolher. Ela informou que o pedido de informação dela não era relacionado às propostas de problema para o trabalho. Thiago concordou. João informou que a professora gostou da ideia do aplicativo e o grupo entendeu que o trabalho não precisa tratar, necessariamente, sobre as solicitações de informação que fizeram nas atividades anteriores.
+
+O grupo começou a discutir o escopo do aplicativo de mobilidade. Rodrigo e Julia concordaram que tratar da acessibilidade das vias públicas era importante e interessante. João questionou de qual lugar eles tirariam a informação sobre a qualidade das calçadas. Julia sugeriu que eles retomassem a ideia de utilizar uma plataforma participativa e relembrou que um dos textos da bibliografia do curso continha um exemplo de um aplicativo que utiliza uma plataforma participativa, referente à “denúncia” de buracos em vias públicas. Carina concorda porque entende que seria difícil pesquisar todas essas informações. Julia relembra que na última reunião João Pedro sugeriu o uso de API. Rodrigo sugere que o aplicativo também mostre as melhores rotas para pessoas com mobilidade reduzida e aponta a necessidade de elencar quais os problemas que podem ser encontrados nas vias. João relembra uma bibliografia que trata sobre esses problemas e destaca o conceito de caminhabilidade, além de buscar outros indicadores que possam embasar o desenvolvimento do projeto. Julia aponta que isso pode ser um dos objetivos do trabalho. Thiago inicia a discussão sobre a definição do público alvo. O grupo decide definir o público alvo como pessoas com mobilidade reduzida. João sugere o “Guia de Rodas” como uma das possíveis inspirações para o projeto. 
+
+Julia pergunta qual seria o problema afinal e qual seria a área de atuação. Thiago e João sugerem que o aplicativo pode começar com um escopo pequeno como um bairro e depois expandir. Julia sugere começar na Zona Leste. O grupo define o problema como falta de infraestrutura adequada para a mobilidade ativa de pessoas com mobilidade reduzida. Além do problema, o grupo começa a discutir objetivos. Thiago cita ampliar a autonomia e qualidade de vida de pessoas com mobilidade reduzida. João adiciona que outro objetivo pode ser permitir aos usuários que denunciem áreas de infraestrutura precária aos órgãos responsáveis. Julia, João e Thiago também adicionam o objetivo de promover a inclusão dessas pessoas na vida urbana. Rodrigo cita a dificuldade de se locomover na cidade que pode existir até para pessoas sem deficiência. O grupo se volta para metodologia e para definição do tipo de entrega. João e Julia citam pesquisa bibliográfica. João adiciona captação e análise de dados e Julia sugere prototipagem. Rodrigo cita a possibilidade de o aplicativo direcionar para a ouvidoria da cidade, ele cita que acessou o site da Ouvidoria e o grupo identificou problemas com o site da prefeitura e que o tempo de demora da resposta às solicitações dos cidadãos era longo. Julia sugere que o grupo divida a escrita sobre cada ponto. João retoma os pontos necessários para a entrega do dia 14 e o grupo identifica que eles já foram definidos. O grupo decide adiantar a discussão de outros tópicos necessários para a entrega do pré-projeto. 
+
+O grupo decide assuntos a serem abordados na introdução, como a definição de PMR, de caminhabilidade e a linha histórica do surgimento da mobilidade ativa como um problema de política pública. Vinicius sugere que o grupo escolha um benchmark para o  aplicativo para torná-lo mais tangível do que o exemplo Waze. João concorda. Rodrigo diz que o grupo poderia pensar em nomes para o aplicativo. Thiago sugere Movimenta SP ou São Paulo Acessível. Rodrigo sugere Calçadômetro. Thiago afirma que está procurando bibliografias sobre pavimentação, o grupo cria um arquivo para inserir as possíveis referências. Carina também adicionou bibliografia sobre acessibilidade em São Paulo. Thiago cita um artigo que propõe um indicador de acessibilidade das calçadas. 
+
+O grupo decide deixar a decisão de tarefas para semana que vem após a aula de segunda-feira e se volta para discussão sobre possibilidade de participação dos integrantes na aula que vem. Thiago traz mais uma indicação de bibliografia para o projeto. Julia pergunta se para o pré-projeto é preciso pensar na estrutura do aplicativo. Rodrigo diz que não. Carina define que o pré-projeto é algo mais simples, que contém somente o escopo do trabalho.
+
+O grupo decide encerrar a reunião.
+
+ 
